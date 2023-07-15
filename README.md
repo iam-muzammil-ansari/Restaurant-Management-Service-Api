@@ -83,9 +83,10 @@ The API uses a MySQL database for storing data. The database design includes tab
 The Restaurant Management Service API provides endpoints for creating food items, placing orders, managing user accounts, and updating order status. It includes authentication and authorization mechanisms to ensure secure access to the API endpoints. The API uses a MySQL database to store and retrieve data related to food items, orders, users, and authentication tokens.
 
 ### Getting Started
-To get started with the API, you need to set up a development environment with Java and MySQL. Clone the project repository and import it into your preferred IDE. Update the MySQL database configuration in the `application.properties` file with your database credentials.
-
-Run the application, and you can then access the API endpoints using the provided base URL.
+- To get started with the API, you need to set up a development environment with Java and MySQL.
+- Clone the project repository [Restaurant Management Service API](https://github.com/ayaan097/Restaurant-Management-Service-Api.git)
+- Import it into your preferred IDE. Update the MySQL database configuration in the `application.properties` file with your database credentials.
+- Run the application, and you can then access the API endpoints using the provided base URL.
 
 ### Testing Endpoints
 
